@@ -4,8 +4,8 @@
 - [Usage of the simulation.](#usage-of-the-simulation)
 - [Citation](#usage-of-the-simulation)
 # The content of the paper.
-## Abstract
-## Introduction
+## Abstract （一起）
+## Introduction（姚）
 - 5G in general
 - The application of 5G(eMBB, URLLC, mIoT)
 - Mobile edge computing(which enables URLLC)
@@ -17,19 +17,19 @@
   - The problem in its application. (Enormous calculation)
 - The content of this article.
 - The contribution of the members.
-## Background 
+## Background （马）
 - ICA in mathematical details.(A. Hyvarinen.)
 - MeICA in mathematical details.
 - The objective of the seperation.
-## Method
+## Method（翁）
 - How to seperate in details
   - The Pseudo Code.
   - Detailed decription.
-## Simulation and the result
+## Simulation and the result（苏）
 - Details of the input data.
 - Result.
 - Discussion
-## Conclusion
+## Conclusion（苏）
 - The summary
 # Usage of the simulation.
 This part's core and alogrithm also base on `pyfastbss_core.py`.
