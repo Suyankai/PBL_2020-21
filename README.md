@@ -85,3 +85,29 @@ and you need XServer to show the GUI, for VSCode you need to set:
 ```
 export DISPLAY=`cat /etc/resolv.conf | grep nameserver | awk '{print $2}'`:0
 ```
+# Citation
+
+``` 
+@INPROCEEDINGS{Wu2006:Component,
+AUTHOR="Huanzhuo Wu and Yunbin Shen and Jiajing Zhang and Ievgenii Anatolijovuch Tsokalo and Hani Salah and Frank H.P. Fitzek",
+TITLE="{Component-Dependent} Independent Component Analysis for {Time-Sensitive} Applications",
+BOOKTITLE="2020 IEEE International Conference on Communications (ICC): SAC Internet of Things Track (IEEE ICC'20 - SAC-06 IoT Track)",
+ADDRESS="Dublin, Ireland",
+DAYS=6,
+MONTH=jun,
+YEAR=2020
+}
+```
+
+```
+@INPROCEEDINGS{Wu2012:Adaptive,
+AUTHOR="Huanzhuo Wu and Yunbin Shen and Jiajing Zhang and Hani Salah and Ievgenii Anatolijovuch Tsokalo and Frank H.P. Fitzek",
+TITLE="Adaptive {Extraction-Based} Independent Component Analysis for {Time-Sensitive} Applications",
+BOOKTITLE="2020 IEEE Global Communications Conference: Selected Areas in Communications: Internet of Things and Smart Connected Communities (Globecom2020 SAC IoTSCC)",
+ADDRESS="Taipei, Taiwan",
+DAYS=6,
+MONTH=dec,
+YEAR=2020,
+KEYWORDS="Blind source separation; Independent component analysis; Time-sensitive application; IoT"
+}
+```
