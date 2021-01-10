@@ -16,7 +16,7 @@
   - Application in MEC and URLLC
   - The problem in its application. (Enormous calculation)
 - The content of this article.
-- The contribution of the members.
+- The contribution of the members.(苏)
 ## Background （马）
 - ICA in mathematical details.(A. Hyvarinen.)
 - MeICA in mathematical details.
