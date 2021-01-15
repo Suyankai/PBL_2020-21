@@ -25,11 +25,11 @@
 - How to seperate in details
   - The Pseudo Code.
   - Detailed decription.
-## Simulation and the result（苏、马）
+## Simulation and the result（苏）
 - Details of the input data.
 - How to set up
 - Result.
-- Discussion
+- Discussion（马）
 ## Conclusion（苏）
 - The summary
 # Usage of the simulation.
