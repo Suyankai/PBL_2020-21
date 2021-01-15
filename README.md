@@ -27,6 +27,7 @@
   - Detailed decription.
 ## Simulation and the result（苏）
 - Details of the input data.
+- How to set up
 - Result.
 - Discussion
 ## Conclusion（苏）
