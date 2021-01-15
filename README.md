@@ -5,7 +5,7 @@
 - [Citation](#usage-of-the-simulation)
 # The content of the paper.
 ## Abstract （一起）
-## Introduction（姚）
+## Introduction (一起)
 - 5G in general
 - The application of 5G(eMBB, URLLC, mIoT)
 - Mobile edge computing(which enables URLLC)
@@ -17,7 +17,7 @@
   - The problem in its application. (Enormous calculation)
 - The content of this article.（苏）
 - The contribution of the members.(苏)
-## Background （马）
+## Background （马、姚）
 - ICA in mathematical details.(A. Hyvarinen.)
 - MeICA in mathematical details.
 - The objective of the seperation.
@@ -25,7 +25,7 @@
 - How to seperate in details
   - The Pseudo Code.
   - Detailed decription.
-## Simulation and the result（苏）
+## Simulation and the result（苏、马）
 - Details of the input data.
 - How to set up
 - Result.
