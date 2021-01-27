@@ -6,12 +6,12 @@
 # The content of the paper.
 ## Abstract （一起）
 ## Introduction (一起)
-- 5G in general
-- The application of 5G(eMBB, URLLC, mIoT)
-- Mobile edge computing(which enables URLLC)
+- 5G in general（马）
+- The application of 5G(eMBB, URLLC, mIoT)（苏）
+- Mobile edge computing(which enables URLLC)（翁）
   - Definition
   - Why MEC is needed?
-- Blind source seperation 
+- Blind source seperation （姚）
   - General
   - Application in MEC and URLLC
   - The problem in its application. (Enormous calculation)
